@@ -2,7 +2,6 @@
 
 ### Pillkyu's Repo  
 <div align="center">
-<img src="" align="center" style="width: 100%" />
 </div>  
   
 
@@ -74,6 +73,11 @@ And Nothing🤪🤪
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pillkyu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+## backjon
+
+<div align = "center">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pk0129)](https://solved.ac/pk0129/)</div>
+
 
 
 ## Recent Blog Posts  
