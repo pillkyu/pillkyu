@@ -1,9 +1,7 @@
 
 
-### Pillkyu'Repo  
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+### Pillkyu's Repo  
+
   
 
 ### <div align="center">I am still a beginner in coding as a student.😅</div>  
@@ -39,8 +37,16 @@
 
 
 
+### Wanna Study  
+<div align="center">  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
+</div>
+
 </td><td valign="top" width="33%">
 
+And Nothing🤪🤪  
 
 
 </td></tr></table>  
