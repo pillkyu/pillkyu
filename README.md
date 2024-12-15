@@ -76,7 +76,7 @@ And Nothing🤪🤪
 
 ## backjon
 
-<div align = "center">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pk0129)](https://solved.ac/pk0129/)</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pk0129)](https://solved.ac/pk0129/)
 
 
 
