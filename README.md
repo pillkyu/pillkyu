@@ -8,9 +8,6 @@
 ### <div align="center">I am still a beginner in coding as a student.😅</div>  
   
 
-- I'm University student  
-  
-
 - Living in my house, Love my house🏡  
   
 
