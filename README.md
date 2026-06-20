@@ -5,13 +5,8 @@
 </div>  
   
 
-### <div align="center">I am still a beginner in coding as a student.😅</div>  
+### <div align="center">Welcome to Pillkyu's Github</div>  
   
-
-- Living in my house, Love my house🏡  
-  
-
-- I'm interested in NLP and Data Analytics (and The apparel industry👚)  
   
 
 <br/>  
